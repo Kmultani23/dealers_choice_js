@@ -58,4 +58,9 @@ p{
     display: flex;
     justify-content: center;
 }
-a{}
+.potatos {
+    display: block;
+    margin-left: auto;
+    margin-right: 300px;
+    width: 300px;
+}
